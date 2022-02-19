@@ -111,3 +111,34 @@ body {
 .dish img {
     width: 28%;
 }
+
+.quoteArea {
+    text-align: center;
+    justify-content: center;
+    color: pink;
+}
+#getQuote {
+    color: #b19cd9;
+    font-size: 3.5em;
+    background-color: #fdfd96;
+    height: auto;
+    width: 500px;
+    margin: 10px;
+}
+
+#getQuote:hover {
+    
+    background-color: lightblue;
+}
+
+.quoteArea h1 {
+    font-size: 150px;
+}
+
+.quoteArea h3 {
+    font-size: 80px;
+}
+
+.quoteArea p {
+    font-size: x-large;
+}
